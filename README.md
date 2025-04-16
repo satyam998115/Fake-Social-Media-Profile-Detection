@@ -1,4 +1,4 @@
-# 📷 Fake Social Media Profile Detection
+# 📷 Fake Social Media Profile Detection 
 
 An AI-powered Instagram analyzer app built with React, TypeScript, Tailwind CSS, and Supabase functions. This tool allows users to scan Instagram usernames and retrieve key statistics and insights in real-time.
 
