@@ -12,9 +12,10 @@ An AI-powered Instagram analyzer app built with React, TypeScript, Tailwind CSS,
 
 ## 🛠️ Tech Stack
 
-- Frontend: React, TypeScript, Vite, Tailwind CSS
+- Frontend: HTML, CSS Javascript React, TypeScript, Vite, Tailwind CSS
 - Backend: Supabase Functions, Python
 - Other Tools: Git, GitHub, .env configuration
 
-
+Contributor: Satyam998115
+Contributor: Shiwangni12
 
