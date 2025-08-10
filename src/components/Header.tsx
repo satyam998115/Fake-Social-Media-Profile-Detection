@@ -15,7 +15,7 @@ const Header = () => {
           <a href="#statistics" className="text-slate-300 hover:text-white transition-colors">Statistics</a>
           <a href="#education" className="text-slate-300 hover:text-white transition-colors">Learn</a>
           <button className="bg-blue-500 hover:bg-blue-600 px-4 py-2 rounded-lg font-medium transition-colors">
-            Get Started
+           Sign Up
           </button>
         </div>
       </nav>

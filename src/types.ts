@@ -14,9 +14,11 @@ export type ProfileData = {
 };
 
 export type ScanResultType = {
-  status: 'fake' | 'real';
-  confidence: number;
-  riskFactors: string[];
-  platformType: 'facebook' | 'instagram' | 'twitter' | 'unknown';
+  status: 'fake' | 'real' | 'error';
+  confidence?: number;
+  aiView?: string;
+  riskFactors?: string[];
+  platformType?: 'facebook' | 'instagram' | 'twitter' | 'unknown';
   profileData?: ProfileData;
+  error?: string;
 };
