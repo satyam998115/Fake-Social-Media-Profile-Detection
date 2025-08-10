@@ -6,3 +6,4 @@ pandas
 joblib
 google-generativeai
 python-dotenv
+gunicorn
