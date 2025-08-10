@@ -17,7 +17,7 @@ export async function analyzeSocialProfile(url: string): Promise<ScanResultType>
     }
 
     // Call the Flask backend
-    const response = await fetch('http://localhost:5000/analyze', {
+    const response = await fetch('https://fake-profile-api-backend.onrender.com', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
