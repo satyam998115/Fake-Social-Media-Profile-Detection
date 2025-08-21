@@ -1,5 +1,7 @@
 # 📷 Fake Social Media Profile Detection 
 
+Go Live -  https://fake-social-media-profile-detection.vercel.app/
+
 An AI-powered Instagram analyzer app built with React, TypeScript, Tailwind CSS, and Supabase functions. This tool allows users to scan Instagram usernames and retrieve key statistics and insights in real-time.
 
 ## 🚀 Features
